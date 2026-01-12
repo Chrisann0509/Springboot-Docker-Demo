@@ -40,7 +40,7 @@ Explanation of Commands
 
 **Build Application Jar File**
 
-![Screenshot 2026-01-02 171135.png](attachment:ba3e5afa-d4a0-4a44-adba-52d902938f38:Screenshot_2026-01-02_171135.png)
+<img width="1867" height="742" alt="image" src="https://github.com/user-attachments/assets/fd74e27c-33af-411a-9861-89a6ebe7faec" />
 
 ### Step 3: Build Docker Image from Dockerfile
 
